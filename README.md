@@ -14,3 +14,10 @@ hello my name is frank.
 Derp it's Austin
 
 ###Ideas/plans/stuff
+
+C
+
+C++
+
+Talking cross computer
+
