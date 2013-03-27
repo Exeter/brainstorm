@@ -26,3 +26,11 @@ Minecraft mods
 WoW addons
 
 Comp. Sci website
+
+Embedded systems
+
+Making viruses
+
+Hacking
+
+OpenGL
