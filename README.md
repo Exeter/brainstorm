@@ -15,6 +15,8 @@ Derp it's Austin
 
 ###Ideas/plans/stuff
 
+Implement auto-correct and auto-complete; compression of English text as a corollary problem.
+
 C
 
 C++
@@ -34,3 +36,5 @@ Making viruses
 Hacking
 
 OpenGL
+
+"Sessions"
