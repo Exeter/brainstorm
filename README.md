@@ -29,3 +29,6 @@ Comp. Sci website
 
 Embedded systems
 
+Making viruses
+
+Hacking
