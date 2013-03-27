@@ -1,12 +1,12 @@
 #Hey people!
 What's up?
 
-Put your ideas in this file.
+Put your idea seeds in this file. When you think an idea is mature enough, you can start a new repository!
 
 - Try signing this text file!
 - Try making a text file!
 
-###Signatures
+###Signature test
 heoll my naem is sean.
 
 ###Ideas
