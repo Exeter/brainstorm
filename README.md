@@ -1,7 +1,7 @@
 #Hey people!
 What's up?
 
-Put your idea seeds in this file. When you think an idea is mature enough, feel free to start a new repository!
+Put your ideas/plans for projects/activities/stuff in this file. Feel free to start a new repository!
 
 - Try signing this text file!
 - Try making a text file!
@@ -9,4 +9,4 @@ Put your idea seeds in this file. When you think an idea is mature enough, feel 
 ###Signature test
 heoll my naem is sean.
 
-###Ideas
+###Ideas/plans/stuff
