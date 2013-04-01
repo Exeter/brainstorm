@@ -9,7 +9,8 @@ Put your ideas/plans for projects/activities/stuff in this file. Feel free to st
 ####Projects
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Comp. Sci website
-- Something that can get Exeter connect data without Exeter connect itself :)
+- Something that can get Exeter connect data without Exeter connect itself
+- Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 - Server
 	- We're setting it up on April 3rd
