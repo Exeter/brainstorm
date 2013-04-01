@@ -3,40 +3,26 @@ What's up?
 
 Put your ideas/plans for projects/activities/stuff in this file. Feel free to start a new repository!
 
-- Try signing this text file!
-- Try making a text file!
 
-###Signature test
-heoll my naem is sean.
+##Ideas/plans/stuff
 
-hello my name is frank.
+####Projects
+- Implement auto-correct and auto-complete; compression of English text as a corollary problem.
+- Comp. Sci website
 
-Derp it's Austin
+####Workshop
+- C/C++
+- Embedded systems
+- Hacking
+- OpenGL
+- App development for Iphone and Android
 
-###Ideas/plans/stuff
 
-Implement auto-correct and auto-complete; compression of English text as a corollary problem.
-
-C
-
-C++
-
-Talking cross computer
+_Hey Austin can you clarify these?_
+- Talking cross computer
+- "Sessions"
 
 Minecraft mods
 
 WoW addons
 
-Comp. Sci website
-
-Embedded systems
-
-Making viruses
-
-Hacking
-
-OpenGL
-
-"Sessions"
-
-App development for Iphone and Android
