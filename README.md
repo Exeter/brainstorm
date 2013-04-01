@@ -9,8 +9,10 @@ Put your ideas/plans for projects/activities/stuff in this file. Feel free to st
 ####Projects
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Comp. Sci website
+- Something that can get Exeter connect data without Exeter connect itself :)
+- Autonomous quadcopter
 - Server
-	- We're getting it on April 3rd
+	- We're setting it up on April 3rd
 	- Stats:
 		- 64 or 128 gb SSD Sean forgets.
 		- 4gb ram
