@@ -9,6 +9,14 @@ Put your ideas/plans for projects/activities/stuff in this file. Feel free to st
 ####Projects
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Comp. Sci website
+- Server
+	- We're getting it on April 3rd
+	- Stats:
+		- 64 or 128 gb SSD Sean forgets.
+		- 4gb ram
+	- What operating system do we put on it? 
+		- Sean is comfortable with arch linux
+	- How do we deal with administration? 
 
 ####Workshop
 - C/C++
