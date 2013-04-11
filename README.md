@@ -7,16 +7,17 @@ Put your ideas/plans for projects/activities/stuff in this file. Feel free to st
 ##Ideas/plans/stuff
 
 ####Projects
+- A faster Exeter Connect
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Comp. Sci website
 - Something that can get Exeter connect data without Exeter connect itself
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 - Server
-	- We're setting it up on April 3rd
+	- We're setting it up on April 13th
 	- Stats:
 		- 64 or 128 gb SSD Sean forgets.
-		- 4gb ram
+		- 4gb RAM
 	- What operating system do we put on it? 
 		- Sean is comfortable with arch linux
 	- How do we deal with administration? 
