@@ -20,8 +20,9 @@ Administrators will be given the responsibility of maintaining the server, eg:
 Administrators will also be responsible for developing processes and procedures for server management. Server meta-software will be designed and engineered by the Administration team.
 
 
-Administrator is a selective job. Administrators will be appointed by co-heads, and will be chosen on the basis of trust, sanity, responsibility, and ability. But mostly trust. Administrators will also have to be approved by Mr. Sea.
-Administrator is a serious job. We will probably have you sign something or do a pinkie promise.
+The job of Administrator is a selective job. Administrators will be appointed by co-heads, and will be chosen on the basis of trust, sanity, responsibility, and ability. But mostly trust. Administrators will also have to be approved by Mr. Sea.
+
+The job of Administrator is a serious job. We will probably have you sign something or do a pinkie promise.
 
 __(TODO: Think of ways to make the administration process as democratic and transparent as possible, but also as streamlined and secure as possible)__
 
