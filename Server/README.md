@@ -26,7 +26,7 @@ The job of Administrator is a serious job. We will probably have you sign someth
 
 __(TODO: Think of ways to make the administration process as democratic and transparent as possible, but also as streamlined and secure as possible)__
 
-##Backups
+###Backups
 Back up once a week? once a day?
 
 ##Usage
