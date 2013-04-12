@@ -31,9 +31,9 @@ Back up once a week? once a day?
 
 ##Usage
 ###Student Projects
-__Sean wrote down Anthony's idea of a non-shell based project hosting, but Sean thinks until we get big, we can simplify things by having just application-based shell acounts for hosting a few projects__
+__Sean wrote down Anthony's idea of a non-shell based project hosting, but Sean thinks until we get big, we can simplify things by having just application-based shell accounts for hosting projects__
 
-####Anythony's idea
+####Project hosting
 Students will be able to host their project of relevance to the PEA community on our server.
 Projects will be reviewed via a web-based application process. Approved projects will be able to be deployed via some API we'll have to design. This method does not involve giving users shell accounts.
 
@@ -49,6 +49,8 @@ Students of the PEA community and CS club will be able to apply for a shell acco
 
 Fishyness will not be tolerated. The server will be setup to be as secure as possible, but trust is still of utmost important. We'll have a one-strike policy, and if we can't trust you, you're out.
 __TODO: define fishiness in better, more specific terms__
+
+Users will be limited in terms of server resources, eg. memory, disk space, CPU usage (?) etc. Users exceeding or approaching these limits will get automatically notified via email. Trouble projects/ users will be taken down if needed.
 
 Shell accounts will expire in 30 days(?) so we'll have some automatic renewal process.
 
