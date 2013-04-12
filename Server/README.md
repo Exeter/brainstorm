@@ -48,7 +48,7 @@ Students of the PEA community and CS club will be able to apply for a shell acco
 	- What will you do on the server?
 
 Fishyness will not be tolerated. The server will be setup to be as secure as possible, but trust is still of utmost important. We'll have a one-strike policy, and if we can't trust you, you're out.
-__TODO: define fishiness in better, more specific terms__
+__(TODO: define fishiness in better, more specific terms)__
 
 Users will be limited in terms of server resources, eg. memory, disk space, CPU usage (?) etc. Users exceeding or approaching these limits will get automatically notified via email. Trouble projects/ users will be taken down if needed.
 
