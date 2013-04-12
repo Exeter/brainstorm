@@ -13,13 +13,12 @@ Put your ideas/plans for projects/activities/stuff in this file. Feel free to st
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 - Server
-	- We're setting it up on April 3rd
 	- Stats:
 		- 64 or 128 gb SSD Sean forgets.
 		- 4gb ram
-	- What operating system do we put on it? 
-		- Sean is comfortable with arch linux
-	- How do we deal with administration? 
+	- Setup:
+	- Administration:
+
 
 ####Workshop
 - C/C++
