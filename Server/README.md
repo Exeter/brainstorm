@@ -16,7 +16,6 @@ Administrators will be given the responsibility of maintaining the server, eg:
 	- checking logs
 	- monitoring network traffic
 - making sure server deployments are running smoothly
-- Okaying
 
 Administrators will also be responsible for developing processes and procedures for server management. Server meta-software will be designed and engineered by the Administration team.
 
@@ -55,8 +54,5 @@ Shell accounts will expire in 30 days(?) so we'll have some automatic renewal pr
 ##Setup
 Operating System: Arch Linux
 __(TODO: Document specs and hardware)__
-
-
-
 
 
