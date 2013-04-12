@@ -1,7 +1,7 @@
 #CS Club Server Plan
 
 ##Mission
-Our student-run server will be used as a space for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other undertakings by CS club.
+Our student-run server will be used as a space for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
 
 ##Administration
 The server will reside in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH.
