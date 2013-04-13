@@ -1,18 +1,18 @@
-#CS Club Server Plan
+#Exeter Computing Club Server Plan
 
 ##Mission
-Our student-run server will be used as a space for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
+Our student-run, instructor-supervised server will be used as a space and medium for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
 
 ##Administration
-The server will reside in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH.
+The server will be located in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH. However, it will be accessed if conditions warrant.
 
 Only Mr. Sea will have root access. In addition to the co-heads, there will also be one or two other members on an Administration team that will have sudo privileges. 
 
 __(TODO: what extent of sudo privilleges? We need flexibility, but we should also follow the principle of least privillege)__
 
 ###Administrators
-Administrators will be given the responsibility of maintaining the server, eg:
-- making sure no trolling is going on, by:
+Administrators will be given the responsibility of maintaining the server, e.g.:
+- making sure no trolling is going on, by doing the following regularly:
 	- checking logs
 	- monitoring network traffic
 - making sure server deployments are running smoothly
@@ -27,6 +27,7 @@ __(TODO: Think of ways to make the administration process as democratic and tran
 
 ###Backups
 Back up once a week? once a day?
+__Problems with storage__
 
 ##Usage
 ###Student Projects
@@ -41,7 +42,7 @@ The application will probably look something along the lines of:
 	- How is it relevant to the PEA community?
 	
 ####Shell accounts
-Students of the PEA community and CS club will be able to apply for a shell account via written electronic application. This application include basic informational questions such as:
+Students of the PEA community and CS club will be able to apply for an SSH account via written electronic application. This application include basic informational questions such as:
 	- What is your project?
 	- How is it relevent to the PEA community?
 	- Why do you you need a shell account?
