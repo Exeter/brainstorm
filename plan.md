@@ -26,7 +26,7 @@ If ECC grows large enough that this becomes practical, we may also launch an htt
 ##Project development
 Currently (since ECC is such a small club), project development will happen over ssh. Each project will have a directory (e.g. project1), and the admins will register the project's endpoint (http://ecc.exeter.edu/project1/*). Until we come up with a better system, all files in the project directory will be run as executables if marked as executable in linux (e.g. chmod +x), served as plaintext files if not, and ignored (return 404 not found) if directories.
 
-##Administration and priveleges
+##Administration and privileges
 The club adviser (currently Mr. Sea) will have root access on the server. Administrators (a position appointed by Mr. Sea) will have sudo access to the entire filesystem _except_ the sudoers file. SSH clients (club members) will have access to certain project directories; these permissions will be handled by the administrators. Any person may apply for SSH access relatively easily; accounts will be managed by the administrators. However, SSH clients will begin with _no_ priveleges, and will be granted access to project directories when they write proposals for contributions to projects.
 
 The job of the administrator is basically to make things less of hassle for the club adviser:
