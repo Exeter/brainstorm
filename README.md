@@ -3,6 +3,7 @@ What's up?
 
 Put your ideas/plans for projects/activities/stuff in this file. Feel free to start a new repository!
 
+Next year we must recruit and retain more people at Club Night in order to make use of the server, in order to do that, we must start to do actual projects.
 
 ##Ideas/plans/stuff
 
