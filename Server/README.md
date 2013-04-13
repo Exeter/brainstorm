@@ -1,7 +1,7 @@
 #Exeter Computing Club Server Plan
 
 ##Mission
-Our student-run, instructor-supervised server will be used as a space and medium for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
+Our student-run, instructor-supervised server with a .exeter.edu domain name will be used as a space and medium for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
 
 ##Administration
 The server will be located in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH. However, it will be accessed if conditions warrant.
@@ -26,8 +26,8 @@ The job of Administrator is a serious job. We will probably have you sign someth
 __(TODO: Think of ways to make the administration process as democratic and transparent as possible, but also as streamlined and secure as possible)__
 
 ###Backups
-Back up once a week? once a day?
-__Problems with storage__
+Back up weekly or daily?
+__Problems with storage.__
 
 ##Usage
 ###Student Projects
@@ -52,6 +52,8 @@ Misuse of resources and trolling will NOT be tolerated. Misuse of resources is d
 The server will be setup to be as secure as possible, but trust is still of utmost importance. We'll have a one-strike policy, and if we can't trust you, you're out.
 
 Users will be limited in terms of server resources, eg. memory, disk space, CPU usage (?) etc. Users exceeding or approaching these limits will get automatically notified via email, and, under extreme conditions, automatically suspended. Troublesome projects/ users will be taken down under administrator review if needed.
+
+In general, the server should not be used for computing, but only for storage or service.
 
 Shell accounts will expire in 30 days(?) so we'll have some automatic renewal process.
 __Disagreed.__
