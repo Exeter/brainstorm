@@ -44,7 +44,7 @@ The application will probably look something along the lines of:
 ####Shell accounts
 Students of the PEA community and CS club will be able to apply for an SSH account via written electronic application. This application include basic informational questions such as:
  - What is your project?
- - How is it relevent to the PEA community?
+ - How is it relevant to the PEA community?
  - Why do you you need a shell account?
  - What will you do on the server?
 
