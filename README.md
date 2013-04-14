@@ -1,6 +1,5 @@
 #Hey people!
 What's up?
-
 Put your ideas/plans for projects/activities/stuff in this file. Feel free to start a new repository!
 
 Next year we must recruit and retain more people at Club Night in order to make use of the server, in order to do that, we must start to do actual projects.
@@ -11,7 +10,10 @@ Next year we must recruit and retain more people at Club Night in order to make 
 - A faster Exeter Connect
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Comp. Sci website
+- Easily-depoyable (out-of-the-box) HMMT guts round scoreboard, with a really solid UI.
 - Something that can get Exeter connect data without Exeter connect itself
+- Implement blog recommendations; generate an aggregate stream of news and things you would (statistically) like.
+- Set up a server to run AI competitions.
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 
