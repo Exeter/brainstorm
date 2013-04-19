@@ -11,5 +11,3 @@ Here are a few tools to streamline server administration.
 ##User managment
  - __who__ to see who's logged on and what they are doing
  - __last__ to see login logs
-
-__(TODO: remote hw monitoring?)__

@@ -60,3 +60,4 @@ zsh
 	- Give Mr. Sea root privilleges, disable visudo for all admins other than Mr. Sea
 - limited sudo privilleges for admins
 - ssh banner to warn and greet users
+- document Remote hw monitoring
