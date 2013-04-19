@@ -35,7 +35,7 @@ The job of the administrator is basically to make things less of hassle for the 
  - Updates to the server meta-software (installing patches to ArchLinux and Apache, installing the latest versions of interpreters and database clients while still maintaining backward compatability)
  - Notifying ECC club members when their projects are taking ugly amounts of computing power or space, and then acting to preserve service (e.g. by terminating processes or deleting files) if project developers do not fix their software in time.
 
-The club adviser will be the only one with regular access to the server machine itself. He or she will be responsible for maintaining the physical health of the server.
+The club adviser will be the only one with regular access to the server machine itself. 
 
 ###The http commit endpoint
 If ECC grows large enough that this is practical, we may also write an http endpoint that allows non-SSH clients to host projects. They will register for developer accounts on ecc.exeter.edu (managed through a standard library password storage scheme) and then be allowed to, via http requests:

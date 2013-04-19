@@ -12,3 +12,4 @@ Here are a few tools to streamline server administration.
  - _who_ to see who's logged on and what they are doing
  - _last_ to see login logs
 
+__TODO: remote hw monitoring?__

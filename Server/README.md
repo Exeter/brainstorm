@@ -1,20 +1,22 @@
 #Exeter Computing Club Server
+ - [Server Setup](https://github.com/Exeter/brainstorm/blob/master/Server/setup.md)
+ - [Administration Guide](https://github.com/Exeter/brainstorm/blob/master/Server/administration.md)
 
 ##Mission
-Our student-run server with a .exeter.edu domain name will be used as a space for PEA students and CS club to host projects relevant to the PEA community. Our server will also be used as a server for other CS club undertakings.
+The Exeter Computing Club server is a student-run server with the purpose of serving a platform for PEA students and ECC developers to host web projects relevant to the PEA community. Our server will also used as a platform for other education ECC projects.
 
+#Production plan
+This is the plan for the ECC server once it is put into production.
 ##Administration
-The server will be located in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH. However, it will be accessed if conditions warrant.
+The server will be located in Mr. Sea's office. The server will not be physically accessed under normal circumstances.
 
-Only Mr. Sea will have root access. In addition to the co-heads, there will also be one or two other members on an Administration team that will have sudo privileges. 
-
-__(TODO: what extent of sudo privilleges? We need flexibility, but we should also follow the principle of least privillege)__
+The club adviser, Mr. Sea will have full root access on the server. A team of administrators will have limited sudo privilleges.
 
 ###Administrators
 Administrators will be given the responsibility of maintaining the server, e.g.:
-- making sure no trolling is going on, by doing the following regularly:
-	- checking logs
-	- monitoring network traffic
+- checking logs for suspicious behavior
+- monitoring network traffic if need be
+- creating accounts for
 - making sure server deployments are running smoothly
 
 Administrators will also be responsible for the development processes and procedures for server management. Server meta-software will be designed and engineered by the Administration team, or by appointment or assignment of the Administration team.
@@ -23,15 +25,8 @@ The job of Administrator is a selective job. Administrators will be appointed by
 
 The job of Administrator is a serious job. We will probably have you sign something or do a pinkie promise.
 
-__(TODO: Think of ways to make the administration process as democratic and transparent as possible, but also as streamlined and secure as possible)__
-
-###Backups
-Back up weekly or daily?
-__Problems with storage.__
-
 ##Usage
 ###Student Projects
-__Sean wrote down Anthony's idea of a non-shell based project hosting, but Sean thinks until we get big, we can simplify things by having just application-based shell accounts for hosting projects__
 
 ####Project hosting
 Students will be able to store and provide their project of relevance to the PEA community for use on our server.
@@ -48,18 +43,9 @@ Students of the PEA community and CS club will be able to apply for an SSH accou
  - Why do you you need a shell account?
  - What will you do on the server?
 
+__(TODO: Better define "misuse")__
 Misuse of resources and trolling will NOT be tolerated. Misuse of resources is defined as the storage of inappropriate materials such as large meaningless texts or the use of space or computing power to perform things that are not specified in the application, such as arbitrary speed testing. Trolling is defined as any deliberate and intentional attempt to disrupt the usability of the server for its users and administrators, e.g. Denial of Service attacks, SQL injections, cracking SSH accounts.
+
 The server will be setup to be as secure as possible, but trust is still of utmost importance. We'll have a one-strike policy, and if we can't trust you, you're out.
 
 Users will be limited in terms of server resources, eg. memory, disk space, CPU usage (?) etc. Users exceeding or approaching these limits will get automatically notified via email, and, under extreme conditions, automatically suspended. Troublesome projects/ users will be taken down under administrator review if needed.
-
-In general, the server should not be used for computing, but only for storage or service.
-
-Shell accounts will expire in 30 days(?) so we'll have some automatic renewal process.
-__Disagreed.__
-
-##Setup
-Operating System: Arch Linux
-__(TODO: Document specs and hardware)__
-
-
