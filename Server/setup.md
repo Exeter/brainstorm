@@ -58,6 +58,4 @@ zsh
 - User account expiration
 - Move machine to Mr. Sea's office
 	- Give Mr. Sea root privilleges, disable visudo for all admins other than Mr. Sea
-
-- Production mode: everything 'cept /var, /tmp and /home are read-only. 
-- Upgrade mode: everything is readwrite, must be at computer though
+- limited sudo privilleges for admins

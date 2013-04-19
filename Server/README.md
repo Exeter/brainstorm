@@ -3,7 +3,7 @@
  - [Administration Guide](https://github.com/Exeter/brainstorm/blob/master/Server/administration.md)
 
 ##Mission
-The Exeter Computing Club server is a student-run server with the purpose of serving a platform for PEA students and ECC developers to host web projects relevant to the PEA community. Our server will also used as a platform for other education ECC projects.
+The Exeter Computing Club server is a student-run server with the purpose of serving a platform for PEA students and ECC developers to host web projects relevant to the PEA community. Our server will also used as a platform for other educational ECC projects.
 
 #Production plan
 This is the plan for the ECC server once it is put into production.
@@ -24,6 +24,8 @@ Administrators will also be responsible for the development processes and proced
 The job of Administrator is a selective job. Administrators will be appointed by co-heads, and will be chosen on the basis of trust, sanity, responsibility, and ability. But mostly trust. Administrators will also have to be approved by Mr. Sea.
 
 The job of Administrator is a serious job. We will probably have you sign something or do a pinkie promise.
+
+__(TODO: Define Administrator terms, conditions, and misuse)__
 
 ##Usage
 ###Student Projects
