@@ -1,7 +1,7 @@
-#Exeter Computing Club Server Plan
+#Exeter Computing Club Server
 
 ##Mission
-Our student-run, instructor-supervised server with a .exeter.edu domain name will be used as a space and medium for students and CS club to host projects relevant to the PEA community. Our server will also be used as a space for other CS club undertakings.
+Our student-run server with a .exeter.edu domain name will be used as a space for PEA students and CS club to host projects relevant to the PEA community. Our server will also be used as a server for other CS club undertakings.
 
 ##Administration
 The server will be located in Mr. Sea's office, and under ordinary circumstances will never be physically touched. Administration will take place remotely via SSH. However, it will be accessed if conditions warrant.
