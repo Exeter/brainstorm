@@ -25,7 +25,7 @@ __(TODO: add psu and case)__
 __(TODO: fill in with sudoers policy, etc.)__
 
 ##Server Software
-__(TODO: Add httpd info (apache config). Also, nginx vs apache?)__
+__(TODO: Add httpd info (apache config). Also, nginx vs apache vs lighttpd?)__
 
 __(TODO: Format better)__
 
