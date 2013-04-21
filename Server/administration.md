@@ -12,3 +12,4 @@ Here are a few tools to streamline server administration.
 ##User managment
  - __who__ to see who's logged on and what they are doing
  - __last__ to see login logs
+ - http://answers.oreilly.com/topic/432-how-to-limit-permissions-with-sudo/
