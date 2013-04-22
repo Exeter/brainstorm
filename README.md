@@ -5,11 +5,13 @@ This repository will be used as a wiki for Exeter Computing Club to brainstorm a
 Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel free to start a new repository!
 
 ####Projects
+- A better Exeter Connect
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
-- Easily-depoyable (out-of-the-box) HMMT guts round scoreboard, with a really solid UI.
+- Easily-deployable (out-of-the-box) HMMT-style guts round scoreboard, with a really solid UI.
 - __Something that can get Exeter connect data without Exeter connect itself__
 - Implement blog recommendations; generate an aggregate stream of news and things you would (statistically) like.
 - Set up a server to run AI competitions.
+- Go to AI competitions.
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 
