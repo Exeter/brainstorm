@@ -31,31 +31,35 @@ __(TODO: Format better)__
 
 List of all manually installed packages:
 
-__apache__
-dialog
-__gcc__
-__git__
-grub-bios
-htop
-__jdk7-openjdk__
-nma
-__nodejs__
-openssh
-__python__
-__python2__
-ranger
-__ruby__
-__sqlite__
-__subversion__
-sudo
-vim
-wget
-wpa_supplicant
-zsh
+ - __apache__                               
+ - dialog
+ - gcc
+ - __git__
+ - grub-bios
+ - htop
+ - __jdk7-openjdk__
+ - make
+ - nmap
+ - __nodejs__
+ - ntp
+ - openssh
+ - __python__
+ - __python2__
+ - python-pip
+ - ranger
+ - __ruby__
+ - __sqlite__
+ - __subversion__
+ - sudo
+ - unzip
+ - vim
+ - wget
+ - wpa_supplicant
+ - zip
+ - zsh
 
 
 ##To be implemented
-- User account expiration
 - Move machine to Mr. Sea's office
 	- Give Mr. Sea root privilleges, disable visudo for all admins other than Mr. Sea
 - limited sudo privilleges for admins
