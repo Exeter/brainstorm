@@ -1,6 +1,12 @@
 #Exeter Computing Club Server
+
  - [Server Setup](https://github.com/Exeter/brainstorm/blob/master/Server/setup.md)
  - [Administration Guide](https://github.com/Exeter/brainstorm/blob/master/Server/administration.md)
+
+####Metasoftware
+
+ - [ecc-index](https://github.com/Exeter/ecc-index)
+ - [exeter_server](https://github.com/Exeter/exeter_server)
 
 ##Mission
 The Exeter Computing Club server is a student-run server with the purpose of serving a platform for PEA students and ECC developers to host web projects relevant to the PEA community. Our server will also used as a platform for other educational ECC projects.
