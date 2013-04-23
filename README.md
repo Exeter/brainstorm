@@ -14,6 +14,7 @@ Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel f
 - Go to AI competitions.
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
+- Virtual bitcoin exchange (with API to accomodate trading bots)
 
 ####Workshops
 - C/C++
