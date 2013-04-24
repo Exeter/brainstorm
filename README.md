@@ -11,7 +11,7 @@ Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel f
 - __Something that can get Exeter connect data without Exeter connect itself__
 - Implement blog recommendations; generate an aggregate stream of news and things you would (statistically) like.
 - Set up a server to run AI competitions.
-- Go to AI competitions.
+- Go to AI competitions. 
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 - Virtual bitcoin exchange (with API to accomodate trading bots)
