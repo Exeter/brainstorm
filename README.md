@@ -26,3 +26,4 @@ Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel f
 ##Thoughts
 Next year we must recruit and retain more people at Club Night in order to make use of the server. In order to do that, we must start to do actual projects.
 This is Ben, Hey guys, I'm just seeing how the hell this works
+random thought - Lizizie
