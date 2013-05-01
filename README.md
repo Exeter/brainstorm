@@ -15,15 +15,17 @@ Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel f
 - Web based RPG with programming challenges (like hacker.org but cooler!)
 - Autonomous quadcopter
 - Virtual bitcoin exchange (with API to accomodate trading bots)
+- Write 2D games in Lua (http://love2d.org) 
+- Possible Google summer of code projects (http://www.google-melange.com/gsoc/projects/list/google/gsoc2012)
 
 ####Workshops
 - C/C++
 - Embedded systems
 - Hacking
 - OpenGL
-- App development for Iphone and Android
+- App development for Iphone and Android 
+- Data visualization (for example, at http://d3js.org) 
 
 ##Thoughts
 Next year we must recruit and retain more people at Club Night in order to make use of the server. In order to do that, we must start to do actual projects.
 This is Ben, Hey guys, I'm just seeing how the hell this works
-random thought - Lizizie
