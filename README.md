@@ -8,7 +8,7 @@ Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel f
 - A better Exeter Connect
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Easily-deployable (out-of-the-box) HMMT-style guts round scoreboard, with a really solid UI.
-- __Something that can get Exeter connect data without Exeter connect itself__
+- [__Something that can get Exeter connect data without Exeter connect itself__](https://github.com/Exeter/connect--)
 - Implement blog recommendations; generate an aggregate stream of news and things you would (statistically) like.
 - Set up a server to run AI competitions.
 - Go to AI competitions. 
