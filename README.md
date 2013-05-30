@@ -5,6 +5,7 @@ This repository will be used as a wiki for Exeter Computing Club to brainstorm a
 Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel free to start a new repository!
 
 ####Projects
+- An Exeter craigslist!
 - A better Exeter Connect
 - Implement auto-correct and auto-complete; compression of English text as a corollary problem.
 - Easily-deployable (out-of-the-box) HMMT-style guts round scoreboard, with a really solid UI.
