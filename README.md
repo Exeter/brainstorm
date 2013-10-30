@@ -1,9 +1,11 @@
-#Hey ECC!
-This repository will be used as a wiki for Exeter Computing Club to brainstorm and plan collaboratively.
+#ECC Goals and Ambitions
 
-##Ideas/plans/stuff
-Put your ideas/plans/thoughts for projects/activities/stuff in this file. Feel free to start a new repository!
+##Launch Dates
+- Exeter Craigslist launches BEFORE CHRISTMAS BREAK
+- 163 launches BEFORE THE FIRST 2014 ECC MEETING
+- Phone Calendar launches BY THE END OF CHRISTMAS BREAK
 
+##Ideas
 ####Projects
 - An Exeter craigslist!
 - A better Exeter Connect
