@@ -2,7 +2,7 @@
 
 ##Launch Dates
 - Exeter Craigslist launches BEFORE CHRISTMAS BREAK
-- 163 launches BEFORE THE FIRST 2014 ECC MEETING
+- 163 launches BY THE FIRST 2014 ECC MEETING
 - Phone Calendar launches BY THE END OF CHRISTMAS BREAK
 
 ##Ideas
